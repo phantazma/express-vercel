@@ -17,8 +17,18 @@
   "author": "Kizito Akhilome <kizito@akhilo.me>",
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "^26.0.23",
-    "jest": "^27.0.3",
-    "supertest": "^6.1.3"
+     "chromium": "^3.0.3",
+    "chromium-installer": "^0.8.1",
+    "download-chromium": "^3.0.0",
+    "follow-redirects": "^1.15.2",
+    "git": "^0.1.5",
+    "https-proxy-agent": "^6.1.0",
+    "i": "^0.3.7",
+    "needle": "^3.2.0",
+    "npm": "^9.6.6",
+    "puppeteer": "^20.1.2",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "stremio-addon-sdk": "^1.6.10"
   }
 }
